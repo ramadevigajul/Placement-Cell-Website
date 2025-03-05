@@ -56,6 +56,11 @@ Admin panel:
 ![image](https://github.com/user-attachments/assets/89be11ed-c595-421e-9155-a29872300468)
 ![image](https://github.com/user-attachments/assets/6efc3c5f-1b30-45b3-b477-57786ae10bc4)
 ![image](https://github.com/user-attachments/assets/09a6a580-9753-4680-80dd-f4438631450f)
+![image](https://github.com/user-attachments/assets/156763f5-f0b3-4e06-8a94-fedadc55f7f3)
+![image](https://github.com/user-attachments/assets/9eb917ea-3a25-4965-9fe6-de7db7d27cb6)
+![image](https://github.com/user-attachments/assets/94350cec-6de0-4b5c-af5b-31e8d9ca8af7)
+![image](https://github.com/user-attachments/assets/f29a8a02-a45e-48b9-80cd-1b711ab99284)
+
 
 
 Student panel:
