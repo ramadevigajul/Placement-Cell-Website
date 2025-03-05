@@ -52,7 +52,7 @@ http://localhost/placement-cell-website/
 
 📸 Screenshots
 
-Admin panel:
+**Admin panel:**
 ![image](https://github.com/user-attachments/assets/89be11ed-c595-421e-9155-a29872300468)
 ![image](https://github.com/user-attachments/assets/6efc3c5f-1b30-45b3-b477-57786ae10bc4)
 ![image](https://github.com/user-attachments/assets/09a6a580-9753-4680-80dd-f4438631450f)
@@ -63,7 +63,12 @@ Admin panel:
 
 
 
-Student panel:
+**Student panel:**
+![image](https://github.com/user-attachments/assets/015d9580-cc53-46ea-99ba-0c72cb89fda9)
+![image](https://github.com/user-attachments/assets/fec839ee-7ee4-4c87-abfe-c84db25a57f1)
+![image](https://github.com/user-attachments/assets/9a0ed113-ea8b-4df8-abfe-e7d01d9b47a6)
+![image](https://github.com/user-attachments/assets/51b61ffb-6011-4dc4-939e-8a41e5ff35bb)
+
 
 
 👥 Contributors
