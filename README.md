@@ -53,20 +53,12 @@ http://localhost/placement-cell-website/
 📸 Screenshots
 
 Admin panel:
-![image](https://github.com/user-attachments/assets/76ff7ca1-b2de-42da-bacd-d4cf9b832fe5)
-![image](https://github.com/user-attachments/assets/749a8cf3-95ca-43f9-a9f7-a6b2fec6259b)
-![image](https://github.com/user-attachments/assets/8b97de6a-73b4-4250-a0d7-85605340f148)
-![image](https://github.com/user-attachments/assets/294eb562-5f40-4ef0-b7a4-3dc9d8dbe7a5)
-![image](https://github.com/user-attachments/assets/19fb4e8d-0d9c-4b97-b1d7-425f432cd08b)
-![image](https://github.com/user-attachments/assets/7d6ebb9d-e862-4233-8790-33cdbf5d1804)
-![image](https://github.com/user-attachments/assets/f5ee4068-c1e8-406e-ac12-beeb4c63a3c5)
+![image](https://github.com/user-attachments/assets/89be11ed-c595-421e-9155-a29872300468)
+![image](https://github.com/user-attachments/assets/6efc3c5f-1b30-45b3-b477-57786ae10bc4)
+![image](https://github.com/user-attachments/assets/09a6a580-9753-4680-80dd-f4438631450f)
+
 
 Student panel:
-![image](https://github.com/user-attachments/assets/183d03cb-c1c1-49f4-9ac9-fec08beec734)
-![image](https://github.com/user-attachments/assets/0928371f-9d3d-468c-ac8c-42b85739189a)
-![image](https://github.com/user-attachments/assets/76d56edf-7d0f-4b97-a9dc-49b1337822d3)
-![image](https://github.com/user-attachments/assets/e9a1d921-1a8a-4792-b100-26d2b1d8b73e)
-
 
 
 👥 Contributors
