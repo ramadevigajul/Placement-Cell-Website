@@ -63,6 +63,8 @@ http://localhost/placement-cell-website/
 
 
 
+
+
 **Student panel:**
 ![image](https://github.com/user-attachments/assets/015d9580-cc53-46ea-99ba-0c72cb89fda9)
 ![image](https://github.com/user-attachments/assets/fec839ee-7ee4-4c87-abfe-c84db25a57f1)
